@@ -1,5 +1,6 @@
 # working_with_twitter
 Collection of notebooks written while learning to work with the Twitter API (https://developer.twitter.com/en/portal)
+![plot](https://github.com/DylanTartarini1996/working_with_twitter/blob/main/twitter_logo.png)
 
 ## Notebooks
 0. "***twitter_API_intro***" is my first attempt at retrieving Twitter data, and contains some detailed explanations on using tweepy to interact with the Twitter API;
@@ -9,7 +10,6 @@ Collection of notebooks written while learning to work with the Twitter API (htt
 4. "***graphs_from_twitter***" is the refined version of (3) and is my first experimentation with network data (my network of friends and followers from Twitter, actually);
 5. "***politics_scraping***" is an experiment in scraping information via about italian politicians accounts on Twitter;
 6. "***politics_graph_analysis***" is a basic analysis of the network of friends of italian politicians on Twitter;
-
 ![plot](https://github.com/DylanTartarini1996/working_with_twitter/blob/main/politicians_net.png)
 
 ## Python Files 
