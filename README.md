@@ -1,6 +1,6 @@
 # working_with_twitter
 Collection of notebooks written while learning to work with the Twitter API (https://developer.twitter.com/en/portal)
-![plot](https://github.com/DylanTartarini1996/working_with_twitter/blob/main/twitter_logo.png)
+![plot](https://pnggrid.com/wp-content/uploads/2021/07/Twitter-Logo.png)
 
 ## Notebooks
 0. "***twitter_API_intro***" is my first attempt at retrieving Twitter data, and contains some detailed explanations on using tweepy to interact with the Twitter API;
