@@ -10,7 +10,10 @@ Collection of notebooks written while learning to work with the Twitter API (htt
 4. "***graphs_from_twitter***" is the refined version of (3) and is my first experimentation with network data (my network of friends and followers from Twitter, actually);
 5. "***politics_scraping***" is an experiment in scraping information via about italian politicians accounts on Twitter;
 6. "***politics_graph_analysis***" is a basic analysis of the network of friends of italian politicians on Twitter;
+7. "***link_prediction_politics***" contains a collection of techniques to perform link prediction using the politicians data collected and analyzed in the previous notebooks.
+
 ![plot](https://github.com/DylanTartarini1996/working_with_twitter/blob/main/politicians_net.png)
 
 ## Python Files 
 * "***graph_scraping_utils***" is a collection of utility functions to scrape data from followers and friends of Twitter users, such that they can be easily converted in network (graph) form.
+* "***graph_features_utils***" is a collection of utility functions to extract features from graph-structured data.
